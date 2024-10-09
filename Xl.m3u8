@@ -1,67 +1,296 @@
 #EXTM3U
-#EXTINF:0,ANIMAL PLANET HD
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16693
-#EXTINF:0,AXN HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16695
-#EXTINF:0,Canal Sony HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16700
-#EXTINF:0,CINEMAX HD
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16702
-#EXTINF:0,Combate HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16703
-#EXTINF:0,COMEDY CENTRAL HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16704
-#EXTINF:0,DISCOVERY CHANNEL HD
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16705
-#EXTINF:0,Discovery Science HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16708
-#EXTINF:0,Discovery Turbo HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16711
-#EXTINF:0,Discovery World HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16712
-#EXTINF:0,ESPN 2 HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16716
-#EXTINF:0,ESPN 3
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16725
-#EXTINF:0,ESPN 4 HD
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/31148
-#EXTINF:0,ESPN 4K
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/31034
-#EXTINF:0,Globo SP HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16730
-#EXTINF:0,H2 HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16733
-#EXTINF:0,HBO 1 HD
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/31465
-#EXTINF:0,HBO 2 HD
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/31460
-#EXTINF:0,HBO FAMILY HD
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/31462
-#EXTINF:0,HBO SIGNATURE HD
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/31473
-#EXTINF:0,ID Investigao Discovery HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16736
-#EXTINF:0,MEGAPIX FULLHD
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/31278
-#EXTINF:0,Paramount Channel HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16746
-#EXTINF:0,RECORDTV HD
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16748
-#EXTINF:0,SBT SP HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16749
-#EXTINF:0,Space HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16750
-#EXTINF:0,SporTV 1 HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16753
-#EXTINF:0,TELECINE ACTION HD
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/31583
-#EXTINF:0,Telecine Fun HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16756
-#EXTINF:0,Telecine Pipoca HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16757
-#EXTINF:0,Telecine Premium HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16758
-#EXTINF:0,TNT HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16760
-#EXTINF:0,TNT Sies HD+
-http://xcui.vitvabc.xyz:8880/287994016377/287994016377/16761
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AE (UHD)
+http://zlb181.office646851.online/auth/32.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AE (FHD)
+https://dzcdn.vood.top/hls/666_.m3u8
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AE (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/332.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AMC (UHD)
+http://zlb181.office646851.online/auth/330.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AMC (FHD)
+https://dzcdn.vood.top/hls/669_.m3u8
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AMC (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/330.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Animal Planet (UHD)
+http://zlb177.office646851.online/live/auth/349.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Animal Planet (FHD)
+http://zlb181.office646851.online/live/auth/195.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Animal Planet (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/33.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AXN (UHD)
+http://zlb181.office646851.online/auth/34.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AXN (FHD)
+http://zlb181.office646851.online/auth/34.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", AXN (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/234879.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Band (UHD)
+http://zlb189.office646851.online/auth/286154.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Band (FHD)
+http://zlb183.office646851.online/auth/234889.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Band (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/234889.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Cinemax (UHD)
+http://zlb181.office646851.online/auth/81.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Cinemax (FHD)
+http://zlb189.office646851.online/auth/234929.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Cinemax (HD)
+http://conexaoonline.top/821937/key5f0e5x0L/234930.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Comedy Central (UHD)
+http://zlb181.office646851.online/auth/198.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Comedy Central  (FHD)
+http://zlb181.office646851.online/auth/40.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Comedy Central  (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/234941.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Channel (FHD)
+http://zlb190.office646851.online/auth/114.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Channel (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/234803.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Theater (UHD)
+http://zlb190.office646851.online/auth/345.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Thearter (FHD)
+http://zlb181.office646851.online/auth/82.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Thearter (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/234819.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Turbo (UHD)
+http://zlb179.office646851.online/auth/268.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Turbo (FHD)
+http://zlb181.office646851.online/auth/41.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Turbo (HD)
+http://conexaoonline.top/307443/key5f0e5x0L/234823.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Science (UHD)
+http://zlb177.office646851.online/auth/234815.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Science (FHD)
+http://zlb190.office646851.online/auth/121.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Science (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/234815.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Home Health (UHD)
+http://zlb190.office646851.online/auth/343.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery  Home Health (FHD)
+http://zlb181.office646851.online/auth/135.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery Home Health (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/234807.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery HGTV (UHD)
+http://zlb177.office646851.online/auth/235006.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery HGTV  (FHD)
+http://zlb181.office646851.online/auth/120.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery  HGTV (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/235006.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery World (UHD)
+http://zlb177.office646851.online/auth/234827.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery World (FHD)
+http://zlb181.office646851.online/live/auth/84.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery World (HD)
+http://conexaoonline.top/307443/436203/key5f0e5x0L/234827.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery TLC (UHD)
+http://zlb180.office646851.online/auth/310.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery TLC (FHD)
+https://dzcdn.vood.top/hls/726_.m3u8
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Discovery TLC (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/235128.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", FX (UHD)
+http://zlb181.office646851.online/auth/90.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", FX (FHD)
+http://zlb181.office646851.online/auth/2208.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", FX (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/235002.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Globo (UHD)
+http://zlb189.office646851.online/auth/160.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Globo (FHD)
+http://zlb190.office646851.online/auth/155.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Globo SP (HD)
+http://conexaoonline.top:80/436203/key5f0e5x0L/160.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", GNT (UHD)
+http://zlb180.office646851.online/auth/2082.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", GNT (FHD)
+http://main.xplus2-main.xyz:2095/live/Tourobox3-UR5GAqpGVC/gzaxFVq7xV/107.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", GNT (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/2082.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO (UHD)
+http://zlb189.office646851.online/auth/278.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO (FHD)
+http://zlb177.office646851.online/auth/234476.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/234476.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO 2 (UHD)
+http://zlb180.office646851.online/auth/279.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HB0 2 (FHD)
+http://zlb177.office646851.online/auth/234469.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO 2 (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/234469.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO Family (UHD)
+http://zlb177.office646851.online/auth/234472.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO Family (FHD)
+http://zlb180.office646851.online/auth/2085.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO Family (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/234472.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO Pop (UHD)
+http://zlb177.office646851.online/auth/234486.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO Pop  (FHD)
+http://zlb177.office646851.online/auth/234485.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HBO", HBO Pop (HD)
+https://conexaoonline.top/live/436203/key5f0e5x0L/234486.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="HISTORY", History (UHD)
+http://zlb177.office646851.online/auth/281.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HISTORY", History (FHD)
+http://zlb181.office646851.online/auth/93.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HISTORY", History (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/235009.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HISTORY", H2 (UHD)
+http://zlb177.office646851.online/auth/286149.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HISTORY", H2 (FHD)
+http://zlb181.office646851.online/auth/50.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="HISTORY", H2 (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/286149.ts
+http://conexaoonline.top/436203/key5f0e5x0L/286149.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Lifetime (UHD)
+http://zlb181.office646851.online/auth/94.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Lifetime (FHD)
+http://zlb180.office646851.online/auth/235019.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Lifetime (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/235020.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Megapix (UHD)
+http://zlb181.office646851.online/auth/145.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Megapix (FHD)
+https://dzcdn.vood.top/hls/692_.m3u8
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Megapix (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/235032.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Multishow (UHD)
+http://zlb184.office646851.online/auth/235047.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Multishow (FHD)
+http://main.xplus2-main.xyz:2095/live/Tourobox3-UR5GAqpGVC/gzaxFVq7xV/423.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Multishow (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/2091.m3u8
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Paramount (UHD)
+http://zlb181.office646851.online/auth/100.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Paramount  (FHD)
+http://zlb181.office646851.online/auth/2215.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Paramount  (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/235078.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Record (UHD)
+http://zlb178.office646851.online/auth/297.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Record (FHD)
+http://mia-645y4heagshnk67b.edge77.bond/auth/905.m3u8
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Record (HD)
+http://zlb189.office646851.online/auth/276808.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Rede TV (UHD)
+http://zlb189.office646851.online/auth/235096.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Rede TV (FHD)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4555
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", Rede TV (HD)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4555
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", SBT (UHD)
+http://zlb189.office646851.online/auth/299.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", SBT (FHD)
+http://mia-645y4heagshnk67b.edge77.bond/auth/783.m3u8
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", SBT  (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/299.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Sony Channel  (UHD)
+http://zlb181.office646851.online/auth/106.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Sony  (FHD)
+http://zlb181.office646851.online/auth/337.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS",  Sony Channel  (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/234916.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Space (UHD)
+http://zlb181.office646851.online/auth/67.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Space (FHD)
+http://zlb181.office646851.online/auth/2219.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Space (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/235105.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Fox (Star Channel UHD)
+http://zlb181.office646851.online/auth/44.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Fox (Star Channel FHD)
+http://zlb181.office646851.online/auth/244.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Fox (Star  Channel HD)
+http://conexaoonline.top/436203/key5f0e5x0L235109.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Fox Life (Star Life UHD)
+http://zlb180.office646851.online/auth/45.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Fox Life (Star Life FHD)
+http://zlb180.office646851.online/live/auth/45.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Fox Life (Star Life HD)
+https://conexaoonline.top/436203/key5f0e5x0L/45.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Action (UHD)
+http://zlb176.office646851.online/auth/234497.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Action  (FHD)
+http://mia-645y4heagshnk67b.edge77.bond/auth/729.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Action (HD)
+https://conexaoonline.top/live/436203/key5f0e5x0L/305.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Pipoca (UHD)
+http://zlb176.office646851.online/auth/234506.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Pipoca  (FHD)
+https://dzcdn.vood.top/hls/628_.m3u8
+#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Pipoca  (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/234506.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Premium (UHD)
+http://zlb176.office646851.online/auth/234509.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Premium  (FHD)
+https://dzcdn.vood.top/hls/635_.m3u8
+#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE",  Telecine Premium  (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/234509.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Touch (UHD)
+http://zlb176.office646851.online/auth/234512.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Touch  (FHD)
+http://mia-645y4heagshnk67b.edge77.bond/auth/744.m3u8
+#EXTINF:-1 tvg-logo="noimage" group-title="TELECINE", Telecine Touch  (HD)
+http://conexaoonline.top/307443/key5f0e5x0L/234512.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", TNT (UHD)
+http://zlb181.office646851.online/auth/123.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", TNT  (FHD)
+http://zlb181.office646851.online/auth/350.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", TNT  (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/235131.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", TV Gazeta (UHD)
+http://zlb183.office646851.online/auth/141.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", TV Gazeta (FHD)
+http://xp2.hostinggonemoreso10.com:2082/live/Tourobox1-QG89Td9tJa/QEDt29VVMz/551.m3u8
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS ABERTOS", TV Gazeta (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/313.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Universal Channel (UHD)
+https://dzcdn.vood.top/hls/742_.m3u8
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Universal Channel (FHD)
+http://zlb181.office646851.online/auth/182588.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Universal Channel (HD)
+https://conexaoonline.top/436203/key5f0e5x0L/235172.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", USA Network (UHD)
+http://zlb181.office646851.online/auth/107.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", USA Network  (FHD)
+https://dzcdn.vood.top/hls/718_.m3u8
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", USA Network (HD)
+https://conexaoonline.top/436203/key5f0e5x0L/361.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Viva (UHD)
+http://zlb180.office646851.online/auth/2145.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Viva (FHD)
+http://mia-645y4heagshnk67b.edge77.bond/auth/76.m3u8
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Viva (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/2145.ts
+
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Warner (UHD)
+http://zlb181.office646851.online/auth/58.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Warner (FHD)
+http://zlb181.office646851.online/auth/2220.ts
+#EXTINF:-1 tvg-logo="noimage" group-title="CANAIS", Warner (HD)
+http://conexaoonline.top/436203/key5f0e5x0L/235180.ts
